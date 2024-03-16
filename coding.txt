@@ -1,0 +1,5 @@
+int main(){
+  int var=545;
+  printf("%d",var);
+  return 0;
+}  
